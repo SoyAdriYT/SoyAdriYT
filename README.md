@@ -90,7 +90,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>Pitbull Hub X</b>
 
 </div>
 <br>
@@ -101,7 +101,3 @@
 ---
 
 <br>
-
-Credit: [SoyAdriYT](https://github.com/SoyAdriYT)
-
-Last Edited on: 09/11/2022
