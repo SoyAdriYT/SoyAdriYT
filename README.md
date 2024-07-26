@@ -92,14 +92,23 @@
 
 ## <b>Pitbull Hub X</b>
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SoyAdriYT/PitbullHubX/main/Loader.lua", true))()
+<div>
+  <span>loadstring(game:HttpGet("https://raw.githubusercontent.com/SoyAdriYT/PitbullHubX/main/Loader.lua", true))()</span>
+  <button onclick="copyToClipboard()">Copy</button>
+</div>
+
+<script>
+  function copyToClipboard() {
+    var text = 'loadstring(game:HttpGet("https://raw.githubusercontent.com/SoyAdriYT/PitbullHubX/main/Loader.lua", true))()';
+    navigator.clipboard.writeText(text).then(function() {
+      alert('Copied to clipboard');
+    }, function(err) {
+      console.error('Async: Could not copy text: ', err);
+    });
+  }
+</script>
 
 </div>
 <br>
 <br>
-<br>
-<br>
-
----
-
 <br>
