@@ -92,8 +92,6 @@
 
 ## <b>Pitbull Hub X</b>
 
-<br>
-
 Discord: https://discord.gg/A4WzWGSgQj
 
 ```lua
