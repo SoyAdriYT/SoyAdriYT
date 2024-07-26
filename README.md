@@ -92,6 +92,8 @@
 
 ## <b>Pitbull Hub X</b>
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SoyAdriYT/PitbullHubX/main/Loader.lua", true))()
+
 </div>
 <br>
 <br>
