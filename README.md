@@ -92,7 +92,7 @@
 
 ## <b>Pitbull Hub X</b>
 
-Discord: https://discord.gg/A4WzWGSgQj
+Discord: https://discord.gg/yZTduXkhMn
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SoyAdriYT/PitbullHubX/main/Loader.lua", true))()
