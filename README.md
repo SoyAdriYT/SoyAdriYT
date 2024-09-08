@@ -16,7 +16,8 @@
 - Play Roblox in free time  
 - Currently learning Lua on my own  
 - Curious and risky  
-- I like dogs  
+- I like dogs
+- ¿Messi o Cristiano? Pregunta la gente.
 
 <br><br>
 
